@@ -1,0 +1,10 @@
+{'Item No.': 1458, 'name': 'Oil', 'weight': 4.3, 'price': 2.3, 'expire days': 3}
+{'Item No.': 1457, 'name': 'Milk', 'weight': 3.0, 'price': 3.4, 'expire days': 3}
+{'Item No.': 1464, 'name': 'Vegetable', 'weight': 3.0, 'price': 4.5, 'expire days': 3}
+{'Item No.': 1465, 'name': 'Flour', 'weight': 40.0, 'price': 2.3, 'expire days': 31}
+{'Item No.': 1463, 'name': 'Spice', 'weight': 3.0, 'price': 2.3, 'expire days': 43}
+{'Item No.': 1460, 'name': 'Cheese', 'weight': 3.0, 'price': 54.0, 'expire days': 63}
+{'Item No.': 1236, 'name': 'Tissue', 'weight': 4.0, 'price': 3.7, 'expire days': 120}
+{'Item No.': 1011, 'name': 'Oil', 'weight': 5.0, 'price': 13.0, 'expire days': 320}
+{'Item No.': 1461, 'name': 'Rice', 'weight': 40.0, 'price': 2.1, 'expire days': 333}
+{'Item No.': 1462, 'name': 'Milk', 'weight': 10.0, 'price': 2.0, 'expire days': 541}

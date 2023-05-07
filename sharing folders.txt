@@ -1,0 +1,3 @@
+internal folders could be shared and edited as expected
+
+usb drive can be shared, but can't be edited. suspect to be permission issues.
